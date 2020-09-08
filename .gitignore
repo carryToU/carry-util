@@ -1,1 +1,8 @@
-.imi
+.idea/
+*.ipr
+*.iml
+*.iws
+target/
+dependency-reduced-pom.xml
+pom.xml.versionsBackup
+.factorypath
